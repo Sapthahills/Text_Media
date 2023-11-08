@@ -4,7 +4,7 @@
       "id": 3,
       "title": "Nathiyee",
       "datetime": "july 14,2002",
-      "body": "Nathiyae nathiyae neeyum penthane "
+      "body": "Nathiyae nathiyae neeyum penthane"
     },
     {
       "id": 4,
@@ -23,6 +23,12 @@
       "title": "Kanmoodi thirakumbothu",
       "datetime": "November 03, 2023 3:10:29 PM",
       "body": "Kanmoodi Thirakumbothu kadavul ethire vanthathu pola adada en kannumun vanthale"
+    },
+    {
+      "id": 7,
+      "title": "Welcome buddy",
+      "datetime": "November 06, 2023 7:24:59 PM",
+      "body": "hello!"
     }
   ]
 }
